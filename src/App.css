@@ -9,22 +9,59 @@
 
 .question-text {
   text-align: center;
-  margin-top: 30px;
+  margin-top: 20px;
   display: block;
+  font-weight: 700;
+  color: #455b66;
+  line-height: 1.4em;
+  font-size: 1.29412em;
 }
 
 ul.answers-wrapper {
-  width: 70%;
+  width: 50%;
   margin: 0 auto;
   margin-top: 20px;
 }
 
 ul.answers-wrapper li{
   list-style: none;
-  height: 30px;
-  border: 1px solid green;
+  margin-bottom: 5px;
+  background: #eceff1;
+  border: 1px solid #d3d9df;
+  padding: 5px 5px 8px;
+  display: block;
+  color: #3c4f59;
+  position: relative;
+  font-size: 18px;
+  cursor: pointer;
 }
 
 ul.answers-wrapper li:hover{
   background-color: bisque;
+}
+
+ul.answers-wrapper li:active{
+  background-color: bisque;
+}
+
+ul.answers-wrapper li:active{
+  transform: scale(0.96);
+}
+
+span.score{
+  text-align: center;
+  margin-top: 20px;
+  display: block;
+  font-weight: 700;
+  color: #2e3c44;
+  font-size: 1.1;
+}
+
+.progress-text{
+  text-align: center;
+  margin-top: 50px;
+  display: block;
+  font-weight: 400;
+  color: #455b66;
+  font-size: 0.9;
 }
