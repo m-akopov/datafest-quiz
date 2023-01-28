@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/datafest-quiz/static/css/main.c62437da.css",
-    "main.js": "/datafest-quiz/static/js/main.0c130cee.js",
+    "main.css": "/datafest-quiz/static/css/main.a522b3b0.css",
+    "main.js": "/datafest-quiz/static/js/main.ab7736c6.js",
     "static/js/787.0de57ad7.chunk.js": "/datafest-quiz/static/js/787.0de57ad7.chunk.js",
     "index.html": "/datafest-quiz/index.html",
-    "main.c62437da.css.map": "/datafest-quiz/static/css/main.c62437da.css.map",
-    "main.0c130cee.js.map": "/datafest-quiz/static/js/main.0c130cee.js.map",
+    "main.a522b3b0.css.map": "/datafest-quiz/static/css/main.a522b3b0.css.map",
+    "main.ab7736c6.js.map": "/datafest-quiz/static/js/main.ab7736c6.js.map",
     "787.0de57ad7.chunk.js.map": "/datafest-quiz/static/js/787.0de57ad7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c62437da.css",
-    "static/js/main.0c130cee.js"
+    "static/css/main.a522b3b0.css",
+    "static/js/main.ab7736c6.js"
   ]
 }
