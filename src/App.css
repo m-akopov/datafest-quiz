@@ -1,47 +1,64 @@
+@font-face {
+  font-family: "FiraGOBold";  
+  src: local("FiraGOBold"),
+    url("./fonts/FiraGO-Bold.otf") format("truetype");
+}
+
+@font-face {
+  font-family: "FiraGOBook";  
+  src: local("FiraGOBook"),
+    url("./fonts/FiraGO-Book.otf") format("truetype");
+}
+
 .App{
   text-align: center;
 }
 
-.progress-text {
-  text-align: center;
-  margin-top: 40px;
-}
-
 .question-text {
   text-align: center;
-  margin-top: 20px;
+  margin-top: 30px;
   display: block;
-  font-weight: 700;
-  color: #455b66;
+  color: #FFFFFF;
+  font-weight: bold;
   line-height: 1.4em;
   font-size: 1.29412em;
+  font-family: "FiraGOBold";
+  margin-left: 5px;
+  margin-right: 5px
 }
 
 ul.answers-wrapper {
-  width: 50%;
+  width: 30%;
   margin: 0 auto;
-  margin-top: 20px;
+  margin-top: 24px;
+  padding-inline-start: 0px;
 }
 
 ul.answers-wrapper li{
   list-style: none;
-  margin-bottom: 5px;
+  margin-bottom: 9px;
   background: #eceff1;
   border: 1px solid #d3d9df;
   padding: 5px 5px 8px;
   display: block;
-  color: #3c4f59;
+  color: #393D54;
   position: relative;
-  font-size: 18px;
+  font-size: 15px;
   cursor: pointer;
+  border-radius: 10px;
+  box-shadow: 4px 4px 5px 0px rgba(0,0,0,0.44);
+  -webkit-box-shadow: 4px 4px 5px 0px rgba(0,0,0,0.44);
+  -moz-box-shadow: 4px 4px 5px 0px rgba(0,0,0,0.44);
+  font-family: "FiraGOBook";
+
 }
 
 ul.answers-wrapper li:hover{
-  background-color: bisque;
+  background-color: #FDA979;
 }
 
 ul.answers-wrapper li:active{
-  background-color: bisque;
+  background-color: #C7FFC9;
 }
 
 ul.answers-wrapper li:active{
@@ -53,15 +70,43 @@ span.score{
   margin-top: 20px;
   display: block;
   font-weight: 700;
-  color: #2e3c44;
+  color: #393D54;
   font-size: 1.1;
 }
 
 .progress-text{
   text-align: center;
-  margin-top: 50px;
   display: block;
   font-weight: 400;
-  color: #455b66;
+  color: #FFFFFF;
   font-size: 0.9;
+  font-family: "FiraGOBook";
+
 }
+
+
+.question-page-background{
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-position: bottom;
+  background-size: contain;
+  padding-top: 30px;
+}
+
+
+@media (max-width:780px) { /* big landscape tablets, laptops, and desktops */ 
+  ul.answers-wrapper {
+    width: 80%;
+    margin-top: 20px;
+  }
+
+  ul.answers-wrapper li{
+    list-style: none;
+    margin-bottom: 9px;
+    background: #eceff1;
+    border: 1px solid #d3d9df;
+    padding: 5px 5px 4px;
+  }
+  
+}
+

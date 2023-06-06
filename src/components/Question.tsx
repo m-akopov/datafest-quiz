@@ -1,12 +1,11 @@
 import { Component } from "react";
 import { QuestionModel } from "../models/QuestionModel";
 
-//({question: QuestionModel, questionIndex:number, numberOfQuestions:number})
 export default class Question extends Component<{question: QuestionModel, questionIndex:number, numberOfQuestions:number, onAnswer: (isCorrect: Boolean) => void}> {
     render() {
         return <div className='question-section-wrapper'>
-        <span className='progress-text'>Question {this.props.questionIndex + 1} of {this.props.numberOfQuestions} </span>
-        <span className='question-text'>{this.props.question.text}</span>
+        <span className='progress-text' style={{color: this.props.question.questionColor.toString()}}>შეკითხვა {this.props.questionIndex + 1}/{this.props.numberOfQuestions} </span>
+        <span className='question-text' style={{color: this.props.question.questionColor.toString()}}>{this.props.question.text}</span>
 
         <ul className='answers-wrapper'>
             {
