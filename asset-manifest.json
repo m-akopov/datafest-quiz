@@ -1,15 +1,40 @@
 {
   "files": {
-    "main.css": "/datafest-quiz/static/css/main.a522b3b0.css",
-    "main.js": "/datafest-quiz/static/js/main.ab7736c6.js",
+    "main.css": "/datafest-quiz/static/css/main.bf071171.css",
+    "main.js": "/datafest-quiz/static/js/main.c4cf69b8.js",
     "static/js/787.0de57ad7.chunk.js": "/datafest-quiz/static/js/787.0de57ad7.chunk.js",
+    "static/media/FiraGO-Bold.otf": "/datafest-quiz/static/media/FiraGO-Bold.e945ec55344bc7a2698d.otf",
+    "static/media/FiraGO-Book.otf": "/datafest-quiz/static/media/FiraGO-Book.a544d372f275959b1ab3.otf",
+    "static/media/question_bg4.png": "/datafest-quiz/static/media/question_bg4.6cc443bf0486ec6acb19.png",
+    "static/media/0_1.png": "/datafest-quiz/static/media/0_1.5b6f519f39a86954fbd7.png",
+    "static/media/question_bg1.png": "/datafest-quiz/static/media/question_bg1.5b6f519f39a86954fbd7.png",
+    "static/media/question_bg17.png": "/datafest-quiz/static/media/question_bg17.4384b19e1d22d273ffef.png",
+    "static/media/question_bg19.png": "/datafest-quiz/static/media/question_bg19.2dc9ed73520e39ba6629.png",
+    "static/media/question_bg15.png": "/datafest-quiz/static/media/question_bg15.68b023ed05c95271b18b.png",
+    "static/media/question_bg21.png": "/datafest-quiz/static/media/question_bg21.2d69a1453057057955b4.png",
+    "static/media/question_bg13.png": "/datafest-quiz/static/media/question_bg13.8cc3bbae577fa4cb5da9.png",
+    "static/media/question_bg3.png": "/datafest-quiz/static/media/question_bg3.8bc1afcbeed2ef448f84.png",
+    "static/media/question_bg5.png": "/datafest-quiz/static/media/question_bg5.6e7ebd0640da178aff14.png",
+    "static/media/question_bg10.png": "/datafest-quiz/static/media/question_bg10.73fe284ca50f30571989.png",
+    "static/media/question_bg12.png": "/datafest-quiz/static/media/question_bg12.6bda2df710eb7e303383.png",
+    "static/media/question_bg16.png": "/datafest-quiz/static/media/question_bg16.6f3dcd4c82254b6fb97e.png",
+    "static/media/question_bg11.png": "/datafest-quiz/static/media/question_bg11.cdef8ddff5394c2c67e3.png",
+    "static/media/question_bg14.png": "/datafest-quiz/static/media/question_bg14.32c4db565a3c0988e16c.png",
+    "static/media/question_bg6.png": "/datafest-quiz/static/media/question_bg6.43ed589b10ef19d233c7.png",
+    "static/media/question_bg18.png": "/datafest-quiz/static/media/question_bg18.14eb5504d83fac232df6.png",
+    "static/media/question_bg2.png": "/datafest-quiz/static/media/question_bg2.6a1410b6b67526e78ed1.png",
+    "static/media/question_bg8.png": "/datafest-quiz/static/media/question_bg8.e80863c7fbe8aed8b6bb.png",
+    "static/media/question_bg9.png": "/datafest-quiz/static/media/question_bg9.ac0c302eeb75e0e1cf88.png",
+    "static/media/question_bg20.png": "/datafest-quiz/static/media/question_bg20.e10d31537f47fa432701.png",
+    "static/media/question_bg7.png": "/datafest-quiz/static/media/question_bg7.274eaeb18433a368e0d6.png",
+    "static/media/logo.svg": "/datafest-quiz/static/media/logo.6ce24c58023cc2f8fd88.svg",
     "index.html": "/datafest-quiz/index.html",
-    "main.a522b3b0.css.map": "/datafest-quiz/static/css/main.a522b3b0.css.map",
-    "main.ab7736c6.js.map": "/datafest-quiz/static/js/main.ab7736c6.js.map",
+    "main.bf071171.css.map": "/datafest-quiz/static/css/main.bf071171.css.map",
+    "main.c4cf69b8.js.map": "/datafest-quiz/static/js/main.c4cf69b8.js.map",
     "787.0de57ad7.chunk.js.map": "/datafest-quiz/static/js/787.0de57ad7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a522b3b0.css",
-    "static/js/main.ab7736c6.js"
+    "static/css/main.bf071171.css",
+    "static/js/main.c4cf69b8.js"
   ]
 }
