@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/datafest-quiz/static/css/main.e80a1d53.css",
-    "main.js": "/datafest-quiz/static/js/main.c4cf69b8.js",
+    "main.js": "/datafest-quiz/static/js/main.1e2f07f4.js",
     "static/js/787.0de57ad7.chunk.js": "/datafest-quiz/static/js/787.0de57ad7.chunk.js",
     "static/media/FiraGO-Bold.otf": "/datafest-quiz/static/media/FiraGO-Bold.e945ec55344bc7a2698d.otf",
     "static/media/FiraGO-Book.otf": "/datafest-quiz/static/media/FiraGO-Book.a544d372f275959b1ab3.otf",
@@ -30,11 +30,11 @@
     "static/media/logo.svg": "/datafest-quiz/static/media/logo.6ce24c58023cc2f8fd88.svg",
     "index.html": "/datafest-quiz/index.html",
     "main.e80a1d53.css.map": "/datafest-quiz/static/css/main.e80a1d53.css.map",
-    "main.c4cf69b8.js.map": "/datafest-quiz/static/js/main.c4cf69b8.js.map",
+    "main.1e2f07f4.js.map": "/datafest-quiz/static/js/main.1e2f07f4.js.map",
     "787.0de57ad7.chunk.js.map": "/datafest-quiz/static/js/787.0de57ad7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e80a1d53.css",
-    "static/js/main.c4cf69b8.js"
+    "static/js/main.1e2f07f4.js"
   ]
 }
