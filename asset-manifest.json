@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/datafest-quiz/static/css/main.e80a1d53.css",
-    "main.js": "/datafest-quiz/static/js/main.e2d0b23b.js",
+    "main.js": "/datafest-quiz/static/js/main.0a0c068d.js",
     "static/js/787.0de57ad7.chunk.js": "/datafest-quiz/static/js/787.0de57ad7.chunk.js",
     "static/media/FiraGO-Bold.otf": "/datafest-quiz/static/media/FiraGO-Bold.e945ec55344bc7a2698d.otf",
     "static/media/FiraGO-Book.otf": "/datafest-quiz/static/media/FiraGO-Book.a544d372f275959b1ab3.otf",
     "static/media/question_bg4.png": "/datafest-quiz/static/media/question_bg4.4386af343b2c8b39a0de.png",
     "static/media/0_1.png": "/datafest-quiz/static/media/0_1.5b6f519f39a86954fbd7.png",
+    "static/media/question_bg1.png": "/datafest-quiz/static/media/question_bg1.5b6f519f39a86954fbd7.png",
     "static/media/question_bg19.png": "/datafest-quiz/static/media/question_bg19.2dc9ed73520e39ba6629.png",
     "static/media/question_bg15.png": "/datafest-quiz/static/media/question_bg15.68b023ed05c95271b18b.png",
     "static/media/question_bg21.png": "/datafest-quiz/static/media/question_bg21.e4046d9b69631fb99936.png",
@@ -23,18 +24,17 @@
     "static/media/question_bg2.png": "/datafest-quiz/static/media/question_bg2.6a1410b6b67526e78ed1.png",
     "static/media/question_bg8.png": "/datafest-quiz/static/media/question_bg8.e80863c7fbe8aed8b6bb.png",
     "static/media/question_bg9.png": "/datafest-quiz/static/media/question_bg9.0c168db6bc932cc46a11.png",
-    "static/media/question_bg1.png": "/datafest-quiz/static/media/question_bg1.658c403142615c826348.png",
     "static/media/question_bg18.png": "/datafest-quiz/static/media/question_bg18.b4b401f05d75afcd2f66.png",
     "static/media/question_bg20.png": "/datafest-quiz/static/media/question_bg20.e10d31537f47fa432701.png",
     "static/media/question_bg7.png": "/datafest-quiz/static/media/question_bg7.6c1802af15f4f1b44336.png",
     "static/media/logo.svg": "/datafest-quiz/static/media/logo.6ce24c58023cc2f8fd88.svg",
     "index.html": "/datafest-quiz/index.html",
     "main.e80a1d53.css.map": "/datafest-quiz/static/css/main.e80a1d53.css.map",
-    "main.e2d0b23b.js.map": "/datafest-quiz/static/js/main.e2d0b23b.js.map",
+    "main.0a0c068d.js.map": "/datafest-quiz/static/js/main.0a0c068d.js.map",
     "787.0de57ad7.chunk.js.map": "/datafest-quiz/static/js/787.0de57ad7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e80a1d53.css",
-    "static/js/main.e2d0b23b.js"
+    "static/js/main.0a0c068d.js"
   ]
 }
