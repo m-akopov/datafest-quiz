@@ -18,13 +18,20 @@
   text-align: center;
   margin-top: 30px;
   display: block;
-  color: #FFFFFF;
+  color: #393D54;
   font-weight: bold;
   line-height: 1.4em;
-  font-size: 1.29412em;
+  font-size: 1.08em;
   font-family: "FiraGOBold";
-  margin-left: 5px;
-  margin-right: 5px
+  padding-left: 12px;
+  padding-right: 12px;
+  max-width: 600px;
+  margin: 0 auto;
+  margin-top: 30px;
+}
+
+.question-section-wrapper{
+  padding-top: 20px;
 }
 
 ul.answers-wrapper {
@@ -43,7 +50,7 @@ ul.answers-wrapper li{
   display: block;
   color: #393D54;
   position: relative;
-  font-size: 15px;
+  font-size: 16px;
   cursor: pointer;
   border-radius: 10px;
   box-shadow: 4px 4px 5px 0px rgba(0,0,0,0.44);
@@ -52,18 +59,22 @@ ul.answers-wrapper li{
   font-family: "FiraGOBook";
 
 }
-
+/* 
 ul.answers-wrapper li:hover{
+  background-color: #FDA979;
+} */
+
+/* ul.answers-wrapper li:active{
+  background-color: #FDA979;
+}
+
+ul.answers-wrapper li:focus{
   background-color: #FDA979;
 }
 
 ul.answers-wrapper li:active{
-  background-color: #C7FFC9;
-}
-
-ul.answers-wrapper li:active{
   transform: scale(0.96);
-}
+} */
 
 span.score{
   text-align: center;
@@ -78,7 +89,7 @@ span.score{
   text-align: center;
   display: block;
   font-weight: 400;
-  color: #FFFFFF;
+  color: #455b66;
   font-size: 0.9;
   font-family: "FiraGOBook";
 
@@ -90,7 +101,7 @@ span.score{
   background-repeat: no-repeat;
   background-position: bottom;
   background-size: contain;
-  padding-top: 30px;
+
 }
 
 

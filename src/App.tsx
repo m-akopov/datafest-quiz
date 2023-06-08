@@ -4,18 +4,14 @@ import { questions } from './assets/questions';
 import Question from './components/Question';
 import FinalResult from './components/FinalResult';
 
-// import question1Bg from "./imgs/kitxvari vector bacgrounds  mobile-01.png";
-// import question2Bg from "./imgs/1.png";
-
-
 function App() {
 
   const [showFinalResults, setFinalResults] = useState(false);
   const [score, setScore] = useState(0);
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
 
-  function setAnswer(isCorrect: Boolean) {
-    setScore(isCorrect ? score + 1 : score)
+  function setAnswer(point: number) {
+    setScore(score + point)
 
     if (currentQuestionIndex === questions.length - 1) {
       setFinalResults(true)
@@ -29,7 +25,7 @@ function App() {
     setFinalResults(false)
     setScore(0)
   }
-  console.log(questions[currentQuestionIndex].bgImage);
+
   return (
     <div className="App">
       {showFinalResults ? (
