@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/datafest-quiz/static/css/main.489165a3.css",
-    "main.js": "/datafest-quiz/static/js/main.0a0c068d.js",
+    "main.js": "/datafest-quiz/static/js/main.e0ed0512.js",
     "static/js/787.0de57ad7.chunk.js": "/datafest-quiz/static/js/787.0de57ad7.chunk.js",
     "static/media/FiraGO-Bold.otf": "/datafest-quiz/static/media/FiraGO-Bold.e945ec55344bc7a2698d.otf",
     "static/media/FiraGO-Book.otf": "/datafest-quiz/static/media/FiraGO-Book.a544d372f275959b1ab3.otf",
@@ -22,19 +22,19 @@
     "static/media/question_bg6.png": "/datafest-quiz/static/media/question_bg6.7e4ab479098ee74b0ae2.png",
     "static/media/question_bg16.png": "/datafest-quiz/static/media/question_bg16.7d0be2fbcd08c0ac00db.png",
     "static/media/question_bg2.png": "/datafest-quiz/static/media/question_bg2.6a1410b6b67526e78ed1.png",
-    "static/media/question_bg8.png": "/datafest-quiz/static/media/question_bg8.e80863c7fbe8aed8b6bb.png",
     "static/media/question_bg9.png": "/datafest-quiz/static/media/question_bg9.0c168db6bc932cc46a11.png",
+    "static/media/question_bg8.png": "/datafest-quiz/static/media/question_bg8.658c403142615c826348.png",
     "static/media/question_bg18.png": "/datafest-quiz/static/media/question_bg18.b4b401f05d75afcd2f66.png",
     "static/media/question_bg20.png": "/datafest-quiz/static/media/question_bg20.e10d31537f47fa432701.png",
     "static/media/question_bg7.png": "/datafest-quiz/static/media/question_bg7.6c1802af15f4f1b44336.png",
     "static/media/logo.svg": "/datafest-quiz/static/media/logo.6ce24c58023cc2f8fd88.svg",
     "index.html": "/datafest-quiz/index.html",
     "main.489165a3.css.map": "/datafest-quiz/static/css/main.489165a3.css.map",
-    "main.0a0c068d.js.map": "/datafest-quiz/static/js/main.0a0c068d.js.map",
+    "main.e0ed0512.js.map": "/datafest-quiz/static/js/main.e0ed0512.js.map",
     "787.0de57ad7.chunk.js.map": "/datafest-quiz/static/js/787.0de57ad7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.489165a3.css",
-    "static/js/main.0a0c068d.js"
+    "static/js/main.e0ed0512.js"
   ]
 }
