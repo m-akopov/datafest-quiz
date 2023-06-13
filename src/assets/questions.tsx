@@ -4,7 +4,7 @@ import { QuestionModel } from "../models/QuestionModel";
 export const questions: QuestionModel[] = [
     {
       text: "ბრაზდება ან წყინს თუ მის გარდა სხვასთან ყოფნა გინდათ?",
-      bgImage:"./imgs/question_bg1.png",
+      bgImage:"./imgs/question_bg1.svg",
       bgColor:"#FDA979",
       questionColor:"#222433",
       options: [
@@ -19,7 +19,7 @@ export const questions: QuestionModel[] = [
     },
     {
       text: "მოითხოვს ყველაფრის შესრულებას  კონკრეტული გზით?",
-      bgImage:"./imgs/question_bg2.png",
+      bgImage:"./imgs/question_bg2.svg",
       bgColor:"#70D9D9",
       questionColor:"#222433",
        options: [
@@ -34,7 +34,7 @@ export const questions: QuestionModel[] = [
     },
     {
       text: "არ გაძლევს უფლებას გქონდეს საკუთარი მეილი ან/და ისარგებლოთ სატელეფონო ზარებით?",
-      bgImage:"./imgs/question_bg3.png",
+      bgImage:"./imgs/question_bg3.svg",
       bgColor:"#70D9D9",
       questionColor:"#222433",
        options: [
@@ -49,7 +49,7 @@ export const questions: QuestionModel[] = [
     },
     {
       text: "ითხოვს ანგარიში ჩააბაროთ იმ პერიოდზე, რომელსაც მისგან მოშორებით ატარებთ?",
-      bgImage:"./imgs/question_bg4.png",
+      bgImage:"./imgs/question_bg4.svg",
       bgColor:"#222433",
       questionColor:"#FFFFFF",
        options: [
@@ -64,7 +64,7 @@ export const questions: QuestionModel[] = [
     },
     {
       text: "გაიგნორებთ როცა ლაპარაკს იწყებთ?",
-      bgImage:"./imgs/question_bg5.png",
+      bgImage:"./imgs/question_bg5.svg",
       bgColor:"#70D9D9",
       questionColor:"#222433",
        options: [
@@ -79,7 +79,7 @@ export const questions: QuestionModel[] = [
     },
     {
       text: "ამბობს რომ გიჟი ან სულელი ხართ?",
-      bgImage:"./imgs/question_bg6.png",
+      bgImage:"./imgs/question_bg6.svg",
       bgColor:"#FDA979",
       questionColor:"#222433",
        options: [
@@ -94,7 +94,7 @@ export const questions: QuestionModel[] = [
     },
     {
       text: "ეჭვიანობს მეგობრებზე, ოჯახზე ან შინაურ ცხოველებზე?",
-      bgImage:"./imgs/question_bg7.png",
+      bgImage:"./imgs/question_bg7.svg",
       bgColor:"#FF7F36",
       questionColor:"#222433",
        options: [
@@ -109,7 +109,7 @@ export const questions: QuestionModel[] = [
     },
     {
       text: "გაკრიტიკებთ როცა ტირით ან ემოციური მხარდაჭერა გჭირდებათ?",
-      bgImage:"./imgs/question_bg8.png",
+      bgImage:"./imgs/question_bg8.svg",
       bgColor:"#222433",
       questionColor:"#FFFFFF",
        options: [
@@ -124,7 +124,7 @@ export const questions: QuestionModel[] = [
     },
     {
       text: "გეუბნებათ, რომ უვარგისი ხართ?",
-      bgImage:"./imgs/question_bg9.png",
+      bgImage:"./imgs/question_bg9.svg",
       bgColor:"#70D9D9",
       questionColor:"#222433",
        options: [
@@ -139,7 +139,7 @@ export const questions: QuestionModel[] = [
     },
     {
       text: "ითხოვს თქვენი აქტივობების ანგარიშის ჩაბარებას?",
-      bgImage:"./imgs/question_bg10.png",
+      bgImage:"./imgs/question_bg10.svg",
       bgColor:"#15C2C1",
       questionColor:"#222433",
        options: [
@@ -154,7 +154,7 @@ export const questions: QuestionModel[] = [
     },
     {
       text: "აიგნორებს თქვენი დახმარების საჭიროებას, როცა ავად ან დაღლილი ხართ?",
-      bgImage:"./imgs/question_bg11.png",
+      bgImage:"./imgs/question_bg11.svg",
       bgColor:"#FDA979",
       questionColor:"#222433",
        options: [
@@ -169,7 +169,7 @@ export const questions: QuestionModel[] = [
     },
     {
       text: "გეუბნებათ, რომ სადილი კარგად ვერ მოამზადეთ და სახლი კარგად ვერ დაალაგეთ?",
-      bgImage:"./imgs/question_bg12.png",
+      bgImage:"./imgs/question_bg12.svg",
       bgColor:"#FDA979",
       questionColor:"#222433",
        options: [
@@ -184,7 +184,7 @@ export const questions: QuestionModel[] = [
     },
     {
       text: "მასხრად იგდებს იმ ღირებულებებს, რასაც ყველაზე მეტად აფასებთ საკუთარ თავში?",
-      bgImage:"./imgs/question_bg13.png",
+      bgImage:"./imgs/question_bg13.svg",
       bgColor:"#70D9D9",
       questionColor:"#222433",
        options: [
@@ -199,7 +199,7 @@ export const questions: QuestionModel[] = [
     },
     {
       text: "გაკრიტიკებთ სახლის ან სახლს გარეთ საქმიანობების გამო?",
-      bgImage:"./imgs/question_bg14.png",
+      bgImage:"./imgs/question_bg14.svg",
       bgColor:"#70D9D9",
       questionColor:"#222433",
        options: [
@@ -214,7 +214,7 @@ export const questions: QuestionModel[] = [
     },
     {
       text: "გამოწმებთ მთელი დღის განმავლობაში?",
-      bgImage:"./imgs/question_bg15.png",
+      bgImage:"./imgs/question_bg15.svg",
       bgColor:"#15C2C1",
       questionColor:"#222433",
        options: [
@@ -229,7 +229,7 @@ export const questions: QuestionModel[] = [
     },
     {
       text: "გაგრძნობინებთ, რომ ტელევიზორი, სხვა ადამიანები, ჟურნალები ან გაზეთები უფრო საინტერესოა ვიდრე თქვენ?",
-      bgImage:"./imgs/question_bg16.png",
+      bgImage:"./imgs/question_bg16.svg",
       bgColor:"#FDA979",
       questionColor:"#222433",
        options: [
@@ -244,7 +244,7 @@ export const questions: QuestionModel[] = [
     },
     {
       text: "გემუქრებათ რომ რამეს დაუშავებს თქვენს ცხოველებს, მეგობრებს, ან ნათესავებს, თუ არ გააკეთებთ იმას, რასაც გეუბნებათ?",
-      bgImage:"./imgs/question_bg17.png",
+      bgImage:"./imgs/question_bg17.svg",
       bgColor:"#70D9D9",
       questionColor:"#222433",
        options: [
@@ -259,7 +259,7 @@ export const questions: QuestionModel[] = [
     },
     {
       text: "გიწოდებთ ისეთ სახელებს, როგორიც არის „მეძავი“ ან „ბოზი“?",
-      bgImage:"./imgs/question_bg18.png",
+      bgImage:"./imgs/question_bg18.svg",
       bgColor:"#222433",
       questionColor:"#FFFFFF",
        options: [
@@ -274,7 +274,7 @@ export const questions: QuestionModel[] = [
     },
     {
       text: "გადანაშაულებთ ღალატში?",
-      bgImage:"./imgs/question_bg19.png",
+      bgImage:"./imgs/question_bg19.svg",
       bgColor:"#70D9D9",
       questionColor:"#222433",
        options: [
@@ -289,7 +289,7 @@ export const questions: QuestionModel[] = [
     },
     {
       text: "არ ერთვება იმ სექსუალურ აქტივობებში, რაც თქვენთვის სიამოვნების მომტანია? ",
-      bgImage:"./imgs/question_bg20.png",
+      bgImage:"./imgs/question_bg20.svg",
       bgColor:"#FDA979",
       questionColor:"#222433",
        options: [
@@ -304,7 +304,7 @@ export const questions: QuestionModel[] = [
     },
     {
       text: "აუფასურებს თქვენს გეგმებს ან აკნინებს თქვენს წარმატებას?",
-      bgImage:"./imgs/question_bg21.png",
+      bgImage:"./imgs/question_bg21.svg",
       bgColor:"#70D9D9",
       questionColor:"#222433",
       options: [

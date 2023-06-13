@@ -107,7 +107,7 @@ span.score{
 
 @media (max-width:780px) { /* big landscape tablets, laptops, and desktops */ 
   ul.answers-wrapper {
-    width: 80%;
+    width: 65%;
     margin-top: 20px;
   }
 
