@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/datafest-quiz/static/css/main.489165a3.css",
-    "main.js": "/datafest-quiz/static/js/main.f07f1b3f.js",
+    "main.css": "/datafest-quiz/static/css/main.bdd493bc.css",
+    "main.js": "/datafest-quiz/static/js/main.f3b97508.js",
     "static/js/787.0de57ad7.chunk.js": "/datafest-quiz/static/js/787.0de57ad7.chunk.js",
     "static/media/FiraGO-Bold.otf": "/datafest-quiz/static/media/FiraGO-Bold.e945ec55344bc7a2698d.otf",
     "static/media/FiraGO-Book.otf": "/datafest-quiz/static/media/FiraGO-Book.a544d372f275959b1ab3.otf",
@@ -26,14 +26,18 @@
     "static/media/question_bg11.svg": "/datafest-quiz/static/media/question_bg11.fe5c0fa72073b7cf215c.svg",
     "static/media/question_bg20.svg": "/datafest-quiz/static/media/question_bg20.a78730e3f4d8503bb0aa.svg",
     "static/media/question_bg18.svg": "/datafest-quiz/static/media/question_bg18.260297bd95a1395b7667.svg",
+    "static/media/result_bg1.svg": "/datafest-quiz/static/media/result_bg1.18a03e1ea266e0605a97.svg",
+    "static/media/result_bg2.svg": "/datafest-quiz/static/media/result_bg2.0a6343b5f19f80b21680.svg",
+    "static/media/result_bg4.svg": "/datafest-quiz/static/media/result_bg4.ab6e4b7e393647885b05.svg",
+    "static/media/result_bg3.svg": "/datafest-quiz/static/media/result_bg3.5f376b614b0c96a89f4d.svg",
     "static/media/logo.svg": "/datafest-quiz/static/media/logo.6ce24c58023cc2f8fd88.svg",
     "index.html": "/datafest-quiz/index.html",
-    "main.489165a3.css.map": "/datafest-quiz/static/css/main.489165a3.css.map",
-    "main.f07f1b3f.js.map": "/datafest-quiz/static/js/main.f07f1b3f.js.map",
+    "main.bdd493bc.css.map": "/datafest-quiz/static/css/main.bdd493bc.css.map",
+    "main.f3b97508.js.map": "/datafest-quiz/static/js/main.f3b97508.js.map",
     "787.0de57ad7.chunk.js.map": "/datafest-quiz/static/js/787.0de57ad7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.489165a3.css",
-    "static/js/main.f07f1b3f.js"
+    "static/css/main.bdd493bc.css",
+    "static/js/main.f3b97508.js"
   ]
 }
