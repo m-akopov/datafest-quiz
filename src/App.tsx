@@ -71,7 +71,7 @@ function App() {
       onReadGeneralInfo ={()=> {  showGeneralInfoPage()}}
       ></HomePage>) :
       showGeneralInfo ? (
-        <GeneralInfo onStartTest={()=> { console.log(123); showQuestionaryPage()}}></GeneralInfo>
+        <GeneralInfo onStartTest={()=> { showQuestionaryPage()}}></GeneralInfo>
       ) :
       showFinalResults ? (
         <FinalResult score={score}

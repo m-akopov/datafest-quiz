@@ -38,7 +38,7 @@ export default class FinalResult extends Component<{ score: number, questionsCou
                 {this.props.score > 0 ? 
                     <div className="general-contact-info-wrapper">
                     <span className="sub-title">იმ შემთხვევაში, თუ თვლით, რომ ძალადობის მსხვერპლი ხართ, შეგიძლიათ:</span>
-დარეკოთ 116 006 ნომერზე, რომელიც არის ძალადობის საკითხებზე
+დარეკოთ <a href="tel:0322116006;"> 116 006 </a>ნომერზე, რომელიც არის ძალადობის საკითხებზე
 საკონსულტაციო 24-საათიანი უფასო ცხელი ხაზი. კონფიდენციალურობა
 დაცულია, გარდა კანონით დადგენილი წესისა;<br/>
 საქართველოში ფუნქციონირებს 5 თავშესაფარი (თბილისი 24/7; ბათუმი 24/7;
@@ -62,13 +62,15 @@ export default class FinalResult extends Component<{ score: number, questionsCou
 არასამთავრობო ორგანიზაციები, რომლებსაც შეუძლიათ გაუწიონ სავარაუდო
 მსხვერპლებს უფასო იურიდიული კონსულტაცია (რაც შესაძლოა
 სასამართლოში წარმომადგენლობასაც მოიცავდეს) და ფსიქოლოგთან ვიზიტი:<br/>
-<b>საფარი:</b> საკონსულტაციო ხაზი: 599 407 603 <br/>
-<b>უფლებები საქართველო:</b> ტელ. ნომერი +995 (32) 299 88 56<br/>
+<b>საფარი:</b> საკონსულტაციო ხაზი: <a href="tel:599407603">599 407 603 </a><br/>
+<b>უფლებები საქართველო:</b> ტელ. ნომერი <a href="0322998856">+995 (32) 299 88 56</a><br/>
 <b>წამების მსხვერპლთა ფსიქოსოციალური და სამედიცინო რეაბილიტაციის<br/>
-ცენტრი GCRT:</b> ტელეფონი: 2 220 689; ელ. ფოსტა: <a href="mailto:info@gcrt.ge">info@gcrt.ge</a> <br/>
-<b>ქალთა ინიციატივების მხარდამჭერი ჯგუფი:</b> საკონსულტაციო ცხელი ხაზი 595
-19 03 03<br/>
-შეგიძლიათ, ასევე, ჩამოწეროთ <b>112 GEORGIA ან/და Safe You</b> აპლიკაცია,
+ცენტრი GCRT:</b> ტელეფონი: <a href="tel:0322220689;">2 220 689;</a> ელ. ფოსტა: <a href="mailto:info@gcrt.ge">info@gcrt.ge</a> <br/>
+<b>ქალთა ინიციატივების მხარდამჭერი ჯგუფი:</b> საკონსულტაციო ცხელი ხაზი <a href="tel:595190303">595 19 03 03</a><br/>
+შეგიძლიათ, ასევე, ჩამოწეროთ <b><a href="https://play.google.com/store/apps/details?id=mia.emergency_georgia_112" target="_blank">112 GEORGIA(Android) </a> &nbsp;&nbsp;
+<a href="https://apps.apple.com/us/app/112-georgia/id1155386092" target="_blank">112 GEORGIA(iOS) </a>
+ან/და <a href="https://play.google.com/store/apps/details?id=fambox.pro&fbclid" target="_blank"> Safe You(Android) </a>  &nbsp;&nbsp;
+</b> <a href="https://apps.apple.com/us/app/safe-you/id1491665304" target="_blank"> Safe You(iOS) </a> აპლიკაცია,
 საიდანაც მიიღებთ დამატებით ინფორმაციას, ასევე შეძლებთ ძალადობის
 შესახებ შეტყობინების გაკეთებას.    
                     </div>
