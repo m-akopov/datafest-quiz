@@ -226,7 +226,7 @@ span.start-quizz{
   align-self: center;
   display: table;
   margin: 0 auto;
-
+  cursor: pointer;
 }
 
 span.general-info{
@@ -237,6 +237,7 @@ span.general-info{
   font-size: 13px;
   border-radius: 27px;
   font-family: "FiraGOMedium";
+  cursor: pointer;
 }
 
 img.home-house{
