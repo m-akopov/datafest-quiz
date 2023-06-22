@@ -1,12 +1,14 @@
 {
   "files": {
-    "main.css": "/datafest-quiz/static/css/main.bdd493bc.css",
-    "main.js": "/datafest-quiz/static/js/main.d0c1bc86.js",
+    "main.css": "/datafest-quiz/static/css/main.785558e1.css",
+    "main.js": "/datafest-quiz/static/js/main.64944ec9.js",
     "static/js/787.0de57ad7.chunk.js": "/datafest-quiz/static/js/787.0de57ad7.chunk.js",
     "static/media/FiraGO-Bold.otf": "/datafest-quiz/static/media/FiraGO-Bold.e945ec55344bc7a2698d.otf",
+    "static/media/FiraGO-Medium.otf": "/datafest-quiz/static/media/FiraGO-Medium.6f1d2a125ac7a48d256c.otf",
     "static/media/FiraGO-Book.otf": "/datafest-quiz/static/media/FiraGO-Book.a544d372f275959b1ab3.otf",
     "static/media/question_bg17.svg": "/datafest-quiz/static/media/question_bg17.7c6e6ef4d8beb0b6eb7b.svg",
     "static/media/question_bg4.svg": "/datafest-quiz/static/media/question_bg4.1f76722d8b5ca40fa02b.svg",
+    "static/media/chart.svg": "/datafest-quiz/static/media/chart.66dca72db7f1d28716329a33870027fc.svg",
     "static/media/question_bg1.svg": "/datafest-quiz/static/media/question_bg1.f495f9134e207bc8eedf.svg",
     "static/media/question_bg19.svg": "/datafest-quiz/static/media/question_bg19.72a049a8fd0869a9fddc.svg",
     "static/media/question_bg21.svg": "/datafest-quiz/static/media/question_bg21.b25ba4a1ebdf3ebb1ad1.svg",
@@ -14,6 +16,7 @@
     "static/media/question_bg13.svg": "/datafest-quiz/static/media/question_bg13.483e4e5e39911d692fea.svg",
     "static/media/question_bg14.svg": "/datafest-quiz/static/media/question_bg14.87f6911092fd2cd4e01c.svg",
     "static/media/question_bg3.svg": "/datafest-quiz/static/media/question_bg3.76c53f099be5081cdaef.svg",
+    "static/media/home-girl-boy.svg": "/datafest-quiz/static/media/home-girl-boy.6ade7ebdcfec041c49e73b8719e712cc.svg",
     "static/media/question_bg16.svg": "/datafest-quiz/static/media/question_bg16.16a5cb3b30d0dd331df4.svg",
     "static/media/question_bg15.svg": "/datafest-quiz/static/media/question_bg15.46835921d2913b7bfcd0.svg",
     "static/media/question_bg5.svg": "/datafest-quiz/static/media/question_bg5.b175b6ae441e6fe2edb1.svg",
@@ -26,18 +29,19 @@
     "static/media/question_bg11.svg": "/datafest-quiz/static/media/question_bg11.fe5c0fa72073b7cf215c.svg",
     "static/media/question_bg20.svg": "/datafest-quiz/static/media/question_bg20.a78730e3f4d8503bb0aa.svg",
     "static/media/question_bg18.svg": "/datafest-quiz/static/media/question_bg18.260297bd95a1395b7667.svg",
-    "static/media/result_bg1.svg": "/datafest-quiz/static/media/result_bg1.18a03e1ea266e0605a97.svg",
-    "static/media/result_bg2.svg": "/datafest-quiz/static/media/result_bg2.0a6343b5f19f80b21680.svg",
-    "static/media/result_bg4.svg": "/datafest-quiz/static/media/result_bg4.ab6e4b7e393647885b05.svg",
-    "static/media/result_bg3.svg": "/datafest-quiz/static/media/result_bg3.5f376b614b0c96a89f4d.svg",
+    "static/media/house.svg": "/datafest-quiz/static/media/house.a02991b5783a431fd900edff72229278.svg",
+    "static/media/result_bg4.svg": "/datafest-quiz/static/media/result_bg4.fad4cbb7ad3399618165.svg",
+    "static/media/result_bg3.svg": "/datafest-quiz/static/media/result_bg3.21cb993bbdc3fe62d82e.svg",
+    "static/media/result_bg2.svg": "/datafest-quiz/static/media/result_bg2.26fd58e51d688ad05dff.svg",
+    "static/media/result_bg1.svg": "/datafest-quiz/static/media/result_bg1.9af0be4d9f6869d3e6b7.svg",
     "static/media/logo.svg": "/datafest-quiz/static/media/logo.6ce24c58023cc2f8fd88.svg",
     "index.html": "/datafest-quiz/index.html",
-    "main.bdd493bc.css.map": "/datafest-quiz/static/css/main.bdd493bc.css.map",
-    "main.d0c1bc86.js.map": "/datafest-quiz/static/js/main.d0c1bc86.js.map",
+    "main.785558e1.css.map": "/datafest-quiz/static/css/main.785558e1.css.map",
+    "main.64944ec9.js.map": "/datafest-quiz/static/js/main.64944ec9.js.map",
     "787.0de57ad7.chunk.js.map": "/datafest-quiz/static/js/787.0de57ad7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bdd493bc.css",
-    "static/js/main.d0c1bc86.js"
+    "static/css/main.785558e1.css",
+    "static/js/main.64944ec9.js"
   ]
 }
