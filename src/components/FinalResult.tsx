@@ -35,6 +35,12 @@ export default class FinalResult extends Component<{ score: number, questionsCou
                 
                 <span className="score-full-desc" dangerouslySetInnerHTML={{ __html: desc }}/><br/>
                 <div className={`result-heart-separator`}></div> <br/>
+
+                
+                <span className="primary-button" onClick={() => {
+                         this.props.onRestartHandler();
+                    }}>თავიდან დაწყება</span> 
+
                 {this.props.score > 0 ? 
                     <div className="general-contact-info-wrapper">
                     <span className="sub-title">იმ შემთხვევაში, თუ თვლით, რომ ძალადობის მსხვერპლი ხართ, შეგიძლიათ:</span>
@@ -63,9 +69,9 @@ export default class FinalResult extends Component<{ score: number, questionsCou
 მსხვერპლებს უფასო იურიდიული კონსულტაცია (რაც შესაძლოა
 სასამართლოში წარმომადგენლობასაც მოიცავდეს) და ფსიქოლოგთან ვიზიტი:<br/>
 <b>საფარი:</b> საკონსულტაციო ხაზი: <a href="tel:599407603">599 407 603 </a><br/>
-<b>უფლებები საქართველო:</b> ტელ. ნომერი <a href="0322998856">+995 (32) 299 88 56</a><br/>
+<b>უფლებები საქართველო:</b> ტელ. ნომერი <a href="tel:0322998856">+995 (32) 299 88 56</a><br/>
 <b>წამების მსხვერპლთა ფსიქოსოციალური და სამედიცინო რეაბილიტაციის<br/>
-ცენტრი GCRT:</b> ტელეფონი: <a href="tel:0322220689;">2 220 689;</a> ელ. ფოსტა: <a href="mailto:info@gcrt.ge">info@gcrt.ge</a> <br/>
+ცენტრი GCRT:</b> ტელეფონი: <a href="tel:0322220689">2 220 689;</a> ელ. ფოსტა: <a href="mailto:info@gcrt.ge" target="_blank">info@gcrt.ge</a> <br/>
 <b>ქალთა ინიციატივების მხარდამჭერი ჯგუფი:</b> საკონსულტაციო ცხელი ხაზი <a href="tel:595190303">595 19 03 03</a><br/>
 შეგიძლიათ, ასევე, ჩამოწეროთ <b><a href="https://play.google.com/store/apps/details?id=mia.emergency_georgia_112" target="_blank">112 GEORGIA(Android) </a> &nbsp;&nbsp;
 <a href="https://apps.apple.com/us/app/112-georgia/id1155386092" target="_blank">112 GEORGIA(iOS) </a>

@@ -114,6 +114,11 @@ ul.answers-wrapper li:active{
   padding: 35px;
 }
 
+.final-results-wrapper .primary-button{
+  color: #FFFFFF;
+  margin-bottom: 20px;
+}
+
 
 .final-results-wrapper{
   display: flex;
@@ -214,7 +219,7 @@ span.home-title .psychological{
   margin: 28px;
 }
 
-span.start-quizz{
+span.primary-button{
   font-family: "FiraGOMedium";
   color: #222444;
   background-color: #FF7F36;
@@ -223,14 +228,13 @@ span.start-quizz{
   border-radius: 27px;
   font-family: "FiraGOMedium";
   display: inline-block;
-  margin: 0 auto;
   align-self: center;
   display: table;
-  margin: 0 auto;
   cursor: pointer;
+  margin: 0 auto;
 }
 
-span.general-info{
+span.secondary-button{
   font-family: "FiraGOMedium";
   color: #222444;;
   background-color: #15c2c1;
@@ -239,6 +243,13 @@ span.general-info{
   border-radius: 27px;
   font-family: "FiraGOMedium";
   cursor: pointer;
+  display: table;
+  margin: 0 auto;
+}
+
+.home-wrapper span.secondary-button,
+ .general-info-wrapper span.secondary-button{
+  margin-top: 10px;
 }
 
 img.home-house{
@@ -361,7 +372,7 @@ a{
     width: 110px;
   }
 
-  span.start-quizz{
+  span.primary-button{
     padding: 12px 25px;
     font-size: 15px;
   }

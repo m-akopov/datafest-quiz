@@ -2,7 +2,7 @@ import { Component } from "react";
 
 import Chart from "../imgs/chart.svg";
 
-export default class GeneralInfo extends Component<{onStartTest: ()=>void}>{
+export default class GeneralInfo extends Component<{onStartTest: ()=>void, onGoBackClicked: ()=> void}>{
     render() {
         
         return <div className='general-info-wrapper-bg'>
@@ -14,9 +14,14 @@ export default class GeneralInfo extends Component<{onStartTest: ()=>void}>{
         <br/>
         <br/>
         
-            <span className="start-quizz" onClick={() => {
+            <span className="primary-button" onClick={() => {
                          this.props.onStartTest();
                     }}>დაიწყე ქვიზი</span> 
+
+
+            <span className="secondary-button" onClick={() => {
+                         this.props.onGoBackClicked();
+                    }}>უკან დაბრუნება</span> 
                 
                 
 <hr/>
@@ -25,7 +30,7 @@ export default class GeneralInfo extends Component<{onStartTest: ()=>void}>{
 <br/>
 <br/>
 
-<span className="start-quizz" onClick={() => {
+<span className="primary-button" onClick={() => {
                         this.props.onStartTest();
                     }}>დაიწყე ქვიზი</span> 
 <hr/>

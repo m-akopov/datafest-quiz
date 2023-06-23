@@ -7,7 +7,7 @@ import HomePage from './components/HomePage';
 import GeneralInfo from './components/GeneralInfo';
 
 function App() {
-  const [showHomePage, setShowHomePage] = useState(true);
+  const [showHome, setShowHome] = useState(true);
   const [showFinalResults, setFinalResults] = useState(false);
   const [showGeneralInfo, setShowGeneralInfo] = useState(false);
   const [showQuestionary, setShowQuestionary] = useState(false);
@@ -36,29 +36,29 @@ function App() {
     setScore(0)
   }
 
-  function shoHomePage(){
-    setShowHomePage(true)
+  function showHomePage(){
+    setShowHome(true)
     setShowGeneralInfo(false)
     setShowGeneralInfo(false)
     setShowQuestionary(true)
   }
 
   function showGeneralInfoPage(){
-    setShowHomePage(false)
+    setShowHome(false)
     setShowGeneralInfo(true)
     setFinalResults(false)
     setShowQuestionary(true)
   }
 
   function showFinalScorePage(){
-    setShowHomePage(false)
+    setShowHome(false)
     setShowGeneralInfo(false)
     setFinalResults(true)
     setShowQuestionary(true)
   }
 
   function showQuestionaryPage(){
-    setShowHomePage(false)
+    setShowHome(false)
     setShowGeneralInfo(false)
     setFinalResults(false)
     setShowQuestionary(true)
@@ -66,12 +66,12 @@ function App() {
 
   return (
     <div className="App">
-      { showHomePage? 
+      { showHome? 
       ( <HomePage onStartTest = {()=> {  showQuestionaryPage()}}
       onReadGeneralInfo ={()=> {  showGeneralInfoPage()}}
       ></HomePage>) :
       showGeneralInfo ? (
-        <GeneralInfo onStartTest={()=> { showQuestionaryPage()}}></GeneralInfo>
+        <GeneralInfo onStartTest={()=> { showQuestionaryPage()}} onGoBackClicked = {()=> {showHomePage()} }></GeneralInfo>
       ) :
       showFinalResults ? (
         <FinalResult score={score}
